@@ -1,0 +1,26 @@
+{
+  "name": "thinkreview",
+  "displayName": "ThinkReview",
+  "version": "1.0.0",
+  "description": "Review a GitHub, GitLab, Azure DevOps, or Bitbucket pull request from Cursor. ThinkReview fetches the diff and returns a structured review.",
+  "author": {
+    "name": "Thinkode",
+    "url": "https://thinkreview.dev"
+  },
+  "homepage": "https://thinkreview.dev/features/mcp",
+  "repository": "https://github.com/Thinkode/thinkreview-cursor",
+  "license": "MIT",
+  "keywords": [
+    "thinkreview",
+    "code-review",
+    "pull-request",
+    "mcp",
+    "github",
+    "gitlab",
+    "azure-devops",
+    "bitbucket"
+  ],
+  "logo": "assets/logo.png",
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
